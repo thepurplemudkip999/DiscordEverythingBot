@@ -1,0 +1,23 @@
+{
+  "name": "diamondfirehelpbot",
+  "version": "1.0.0",
+  "description": "Helps innocent people learn how to use DF!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Owen1212055/DiamondFireHelpBot.git"
+  },
+  "author": "Owen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Owen1212055/DiamondFireHelpBot/issues"
+  },
+  "homepage": "https://github.com/Owen1212055/DiamondFireHelpBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "snekfetch": "^4.0.4"
+  }
+}
