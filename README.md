@@ -1,0 +1,2 @@
+# DiscordEverythingBot
+ Basically Everything
